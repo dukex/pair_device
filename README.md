@@ -92,9 +92,9 @@ To install this gem onto your local machine, run `bundle exec rake install`.
 
 ## Resources
 
-[Security, Bluetooth Low Energy](https://www.bluetooth.com/~/media/files/specification/bluetooth-low-energy-security.ashx?la=en)
-[Core_V4.2.pdf](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.129786885.880762383.1476030947)
-[Secure Simple Pairing Explained](http://www.ellisys.com/technology/een_bt07.pdf)
+* [Security, Bluetooth Low Energy](https://www.bluetooth.com/~/media/files/specification/bluetooth-low-energy-security.ashx?la=en)
+* [Core_V4.2.pdf](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.129786885.880762383.1476030947)
+* [Secure Simple Pairing Explained](http://www.ellisys.com/technology/een_bt07.pdf)
 
 
 ## Contributing
