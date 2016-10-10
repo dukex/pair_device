@@ -5,7 +5,11 @@ describe PairDevice do
     expect(PairDevice::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
+  it "configures store" do
+    PairDevice.configure do |config|
+      config.store Redis.new
+    end
+
+    expect(PairDevice::Configuration.store).to be_a(Redis)
   end
 end
